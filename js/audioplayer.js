@@ -1,5 +1,5 @@
 const audioPlayer = document.querySelector('.audio-player');
-const audio = new Audio('../assets/backsound.mp3');
+const audio = new Audio('./assets/backsound.mp3');
 
 console.dir(audio);
 
